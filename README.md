@@ -1,5 +1,5 @@
 # Binary Search
-
+ 
 Implement a binary search function that, given a sorted list and an element to
 look for, returns the index of the element in the list or -1 if the element is
 not there.
